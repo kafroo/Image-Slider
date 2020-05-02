@@ -12,8 +12,8 @@
 >## Header ##
 >> -only one statement " Image Slider Example  ", then close header tag
 >##  ##
->> - Previous Button
->> - Next Button
+>> - Previous Button to get previous pictures
+>> - Next Button to get next next pictures 
 >> - Div which includes the images 
 >> - Import JS file using script tag
 >> - Close body tag 
