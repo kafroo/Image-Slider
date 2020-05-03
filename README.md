@@ -14,7 +14,7 @@
 >##  ##
 >> - Previous Button to get previous pictures
 >> - Next Button to get next next pictures 
->> - Div which includes the images 
+>> - The images which the user will slide through them
 >> - Import JS file using script tag
 >> - Close body tag 
 >> - Close html tag
